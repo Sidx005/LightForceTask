@@ -77,8 +77,7 @@ Contains energy consumption data for **459 locations**.
 
 - **Python** (Task 1)
   - `pandas`, `numpy` → Data processing
-  - `scikit-learn`, `xgboost` → Machine learning
-  - `matplotlib`, `seaborn` → Visualization
+  - `scikit-learn` → Machine learning
 - **Power BI** (Task 2)
   - Data transformation, modeling, dashboard creation
 
